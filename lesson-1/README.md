@@ -1,0 +1,6 @@
+- Enable webpack -> ```webpack webpack-cli```
+- Reference the new renamed bundle automatically in the indx.html file -> ```html-webpack-plugin```
+- Enable babel -> ```babel-loader @babel/core @babel/preset-env```
+- Enable sass style -> ```sass-loader node-sass webpack```
+- Enable hot-reloading -> ```webpack-dev-server```
+- Clean dist folder before each new run -> ```clean-webpack-plugin```
