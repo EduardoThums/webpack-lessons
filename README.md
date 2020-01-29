@@ -1,3 +1,3 @@
 # Webpack Lessons
 
-Some [webpack](https://webpack.js.org/) simple lessons pursuing learn basic concepts and how implement from scratch the different webpack configs.
+Some [webpack](https://webpack.js.org/) simple examples used to learn basic concepts and implement from scratch different webpack configs.
